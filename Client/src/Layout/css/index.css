@@ -1,0 +1,17 @@
+nav {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+nav .Tasty {
+  font-size: 30px;
+}
+nav .Navbar #mainNav {
+  font-size: 20px;
+  gap: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=index.css.map */

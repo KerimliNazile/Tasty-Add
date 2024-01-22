@@ -1,0 +1,21 @@
+nav {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+
+    .Tasty {
+        font-size: 30px;
+    }
+
+    .Navbar {
+        #mainNav {
+            font-size: 20px;
+            gap: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+}
